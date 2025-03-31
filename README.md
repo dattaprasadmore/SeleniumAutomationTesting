@@ -1,4 +1,4 @@
-#### Test Automation Framework
+## Test Automation Framework
 
 This repository contains a Java-based Test Automation Framework designed for functional testing of web applications. The framework is built using Java 17, TestNG, and Maven, with integration for Lambda Test, data-driven testing, Selenium Grid parallel test execution, headless execution, and logging/reporting mechanisms.
 
