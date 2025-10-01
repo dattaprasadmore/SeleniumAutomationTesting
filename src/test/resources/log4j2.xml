@@ -13,5 +13,5 @@
                 <AppenderRef ref="Console"></AppenderRef>
                 <AppenderRef ref="FileLogger"></AppenderRef>
             </Root>
-        </Loggers>
+        </Loggers> 
 </configuration>
