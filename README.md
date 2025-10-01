@@ -2,7 +2,7 @@
 
 This repository contains a Java-based Test Automation Framework designed for functional testing of web applications. The framework is built using Java 17, TestNG, and Maven, with integration for Lambda Test, data-driven testing, Selenium Grid parallel test execution, headless execution, and logging/reporting mechanisms.
 
-## 🚀 About Me
+## 🚀 About Me 
 Hi, My Name is Dattaprasad More and I have 9+ years of experience in Software testing using technologies like Selenium WebDriver, RestAssured.
 
 My major experties is in Java Programming Language. 
